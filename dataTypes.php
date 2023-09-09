@@ -24,7 +24,7 @@ and open the template in the editor.
          */
         
         $course = "This is \"PHP\" course";
-        $name = 'Vladan Dzulovic, \'PHP\' instructor';
+        $name = 'Branko Teodorovic, \'PHP\' instructor';
         $streetNumber = "181";
         
         echo $course;
@@ -75,8 +75,8 @@ and open the template in the editor.
         
         
         $student = [
-            "Vladan",
-            "Dzulovic",
+            "Branko",
+            "Teodorovic",
             35,
             true,
             1.81
@@ -106,8 +106,8 @@ and open the template in the editor.
         //ASOCIATIVE ARRAY
         
         $teacher = array(
-            "name" => "Vladan",
-            "lastName" => 'Dzulovic',
+            "name" => "Branko",
+            "lastName" => 'Teodorovic',
             "age" => 35,
             "programer" => true,
             "height"=> 1.81
