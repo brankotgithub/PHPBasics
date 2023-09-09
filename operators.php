@@ -12,8 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         
-        $firstName = "Vladan"; // string
-        $lastName = "Dzulovic"; //string
+        $firstName = "Branko"; // string
+        $lastName = "Teodorovic"; //string
         $age = "35";  //string
         
         $x = 10;
