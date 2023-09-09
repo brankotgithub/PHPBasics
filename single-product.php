@@ -19,7 +19,7 @@ $products = array(
         'title'=> "Product 3",
         "description"=>"Product 3 Description",
         "price"=> 300,
-        "img"=> "http://via.placeholder.com/600x400"
+        "img"=> "https://via.placeholder.com/600x400"
     ),
     "4" => array(
         'title'=> "Product 4",
