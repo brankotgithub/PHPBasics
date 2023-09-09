@@ -17,7 +17,7 @@ and open the template in the editor.
         // function definition
         function displayName(){
             // function body
-            echo "My name is Vladan Dzulovic.";
+            echo "My name is Branko Teodorovic.";
             echo '<br>';          
         }
         
