@@ -11,10 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $username = 'Vladan';
+        $username = 'Branko';
         //cannot be empty
         // cannot be larger than 6 characters
-        $email = 'vladan.dzulovic@cubes.rs';
+        $email = 'teodorovic.b@gmail.coms';
 
         //cannot be empty
         // have to be a valid email
