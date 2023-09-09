@@ -24,7 +24,7 @@ and open the template in the editor.
         
         
         // arguments
-        displayUser('Vladan Dzulovic');
+        displayUser('Branko Teodorovic');
         displayUser('Marko Markovic');
         
         displayUser('Petar Petrovic');
