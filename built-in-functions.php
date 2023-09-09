@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         $emptyString = "";
         $emptySpace = " ";
-        $name = "Vladan";
+        $name = "Branko";
         $company = "  Cubes   ";
         $school = "  Cubes School  ";
         $lastName;
@@ -29,8 +29,8 @@ and open the template in the editor.
             "Peugeot"
         );
         $person = array(
-            "name" => "Vladan",
-            "lastname" => "Dzulovic",
+            "name" => "Branko",
+            "lastname" => "Teodorovic",
             "age" => 35
         );
 
