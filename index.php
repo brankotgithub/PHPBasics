@@ -30,7 +30,7 @@ and open the template in the editor.
         ?>
         <hr>
         <?php
-            echo "Vladan Dzulovic";
+            echo "Branko Teodorovic";
             
         ?>
         <hr>
@@ -53,12 +53,12 @@ and open the template in the editor.
         <pre>
         <?php 
             //echo "<pre>";
-            var_dump("My name is Vladan");
+            var_dump("My name is Branko");
         ?>
         </pre>
         
         <?php 
-            print_r('My lastname is Dzulovic');
+            print_r('My lastname is Teodorovic');
         ?>
         
         
