@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         
-       // echo "My name is Vladan";
+       // echo "My name is Branko";
        // echo "<br>";
         
         //WHILE LOOP
@@ -35,7 +35,7 @@ and open the template in the editor.
         
         while ($start < 6){
             
-            echo "My name is Vladan";
+            echo "My name is Branko";
             echo "<br>";
             
             $start++;
